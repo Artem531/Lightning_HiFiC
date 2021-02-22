@@ -1,6 +1,5 @@
 # Lightning_HiFiC
-This is pytorch lightning wrapper of https://github.com/Justin-Tan/high-fidelity-generative-compression for multi-gpu and mixed precision training.
-
+This is pytorch lightning wrapper of https://github.com/Justin-Tan/high-fidelity-generative-compression for multi-gpu and mixed precision training (GAN not tested yet)
 ## How to install
 1) conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 2) pip install pytorch-lightning
@@ -11,3 +10,4 @@ This is pytorch lightning wrapper of https://github.com/Justin-Tan/high-fidelity
 
 ## How to run?
 python lightning.py
+
