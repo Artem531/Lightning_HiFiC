@@ -11,3 +11,5 @@ This is pytorch lightning wrapper of https://github.com/Justin-Tan/high-fidelity
 ## How to run?
 python lightning.py
 
+## How to edit Trainer parameters?
+In lightning.py add new pl.Trainer parameters from https://pytorch-lightning.readthedocs.io/en/latest/common/trainer.html
